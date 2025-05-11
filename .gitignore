@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.python-version
+venv/
+env/
+
+# Logs and outputs
+*.log
+*.tflite
+*.pb
+output/
+models/
+
+# Environment files
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.egg-info/
+
+# Jupyter/Colab
+.ipynb_checkpoints/

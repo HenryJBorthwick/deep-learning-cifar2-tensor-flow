@@ -1,3 +1,7 @@
+# Overview
+
+A CIFAR-2 binary convolutional image classifier built with TensorFlow for deep learning
+
 # README CNN_CIFAR
 
 ## question 1
